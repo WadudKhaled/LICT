@@ -331,6 +331,10 @@ hr.line {
 
 @media only screen and (max-width: 599px){
 
+    .btn-search2 {
+        margin-top: 10px;
+    }
+
     .banner-hero {
         position: relative;
         padding: 130px 0px 63px 0px!important;
